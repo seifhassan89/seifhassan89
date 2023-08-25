@@ -44,6 +44,10 @@
 ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![NestJs](https://img.shields.io/badge/NestJs-pink.svg?style=for-the-badge&logo=Nestjs&logoColor=white)
+![RubyOnRails](https://img.shields.io/badge/RubyOnRails-red.svg?style=for-the-badge&logo=RubyOnRails&logoColor=white)
+![DotNetCore](https://img.shields.io/badge/DotNetCore-blue.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![DotNetCore](https://img.shields.io/badge/rxjs-blue.svg?style=for-the-badge&logo=reactivex&logoColor=white)
+
 <br>
 ### 🧑🏻‍💻 Tools & Platform
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
