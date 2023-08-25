@@ -3,7 +3,7 @@
 </div>
 <p align="center">
 	<a href="https://www.linkedin.com/in/seifhassan89"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-	<a href="https://twitter.com/seifhassan38"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+	<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMScXmzMTgCNfqKQNZPgPGTTtkfrlRxGZtFJJzjqjjKxgqlzvbsBRlxqdfwvWrvlPfHCVjz"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 	<br><br>
 	<a href="https://www.credly.com/badges/24d9097d-e03c-4009-82de-17010fe07478"><img width="100" src="https://images.credly.com/size/340x340/images/24d9097d-e03c-4009-82de-17010fe07478/FL0038.png"></a>
 </p><br>
